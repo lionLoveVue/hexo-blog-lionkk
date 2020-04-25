@@ -31,7 +31,11 @@
 
 ## :loudspeaker:公告
 
-2020年4月25日 2点 已经把`hexo-blog-lionkk`博客搭建起来了，目前版本是已经够用了，关于新加入的特性可以参考下文内容。部分没有实现的功能，在教程里面也已提供详细的文档，你可以直接`clone`下来，随你 `DIY`，形成你的博客风格，
+2020年4月25日 2点 已经把`hexo-blog-lionkk`博客搭建起来了，目前版本是已经够用了，关于新加入的特性可以参考下文内容。部分没有实现的功能，在教程里面也已提供详细的文档，你可以直接`clone`下来，随你 `DIY`，形成你的博客风格。
+
+<a href="https://www.bilibili.com/video/BV1qe411s7Y5">叮咚~ 关于博客搭建教程的视频介绍</a>
+
+v1.0.0版本已经发布
 
 ## :partly_sunny:特性
 `hexo-theme-butterfly `是基于 <a href="https://github.com/Molunerfinn">Molunerfinn</a> 的<a href="https://github.com/Molunerfinn/hexo-theme-melody"> hexo-theme-melody</a> 的基础上进行开发的。
@@ -142,6 +146,6 @@
 
 >最后，如果项目和教程对你有所帮助或者你看见了还算比较喜欢，欢迎给我star，谢谢您！
 
-## License
+## :name_badge:License
 
 <a href="http://www.apache.org/licenses/LICENSE-2.0">Apache License 2.0</a>
